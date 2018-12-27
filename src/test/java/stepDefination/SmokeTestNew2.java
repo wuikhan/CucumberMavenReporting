@@ -18,6 +18,9 @@ public class SmokeTestNew2 {
 		
 		
 		
+		
+		
+		
 	}
 
 	@And("^I enter username and password$")
