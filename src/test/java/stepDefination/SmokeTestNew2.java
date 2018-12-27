@@ -12,10 +12,7 @@ public class SmokeTestNew2 {
 	@Given("^I login to the website$")
 	public void i_login_to_the_website() {
 		System.out.println("Hello");
-		System.out.println("Hello");
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\waqas.khan\\Downloads\\chromedriver.exe");
-		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.google.com");
+	
 
 	}
 
@@ -31,7 +28,7 @@ public class SmokeTestNew2 {
 
 	@And("^I logout$")
 	public void i_logout() {
-		Assert.assertEquals(12, 12);
+		Assert.assertEquals(12, 13);
 	}
 
 }
