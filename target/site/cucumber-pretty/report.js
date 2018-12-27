@@ -38,28 +38,28 @@ formatter.match({
   "location": "SmokeTestNew2.i_login_to_the_website()"
 });
 formatter.result({
-  "duration": 116664765,
+  "duration": 110280083,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_enter_username_and_password()"
 });
 formatter.result({
-  "duration": 32954,
+  "duration": 35109,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_click_login()"
 });
 formatter.result({
-  "duration": 26193,
+  "duration": 56307,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_logout()"
 });
 formatter.result({
-  "duration": 1047528,
+  "duration": 1038310,
   "status": "passed"
 });
 formatter.scenario({
@@ -94,28 +94,28 @@ formatter.match({
   "location": "SmokeTestNew2.i_login_to_the_website()"
 });
 formatter.result({
-  "duration": 38372,
+  "duration": 64841,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_enter_username_and_password()"
 });
 formatter.result({
-  "duration": 30019,
+  "duration": 24542,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_click_login()"
 });
 formatter.result({
-  "duration": 28349,
+  "duration": 23424,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_logout()"
 });
 formatter.result({
-  "duration": 12229,
+  "duration": 11808,
   "status": "passed"
 });
 formatter.scenario({
@@ -150,28 +150,28 @@ formatter.match({
   "location": "SmokeTestNew2.i_login_to_the_website()"
 });
 formatter.result({
-  "duration": 36237,
+  "duration": 34911,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_enter_username_and_password()"
 });
 formatter.result({
-  "duration": 41769,
+  "duration": 23791,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_click_login()"
 });
 formatter.result({
-  "duration": 41727,
+  "duration": 26504,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_logout()"
 });
 formatter.result({
-  "duration": 13124,
+  "duration": 38636,
   "status": "passed"
 });
 formatter.scenario({
@@ -206,28 +206,28 @@ formatter.match({
   "location": "SmokeTestNew2.i_login_to_the_website()"
 });
 formatter.result({
-  "duration": 36086,
+  "duration": 65031,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_enter_username_and_password()"
 });
 formatter.result({
-  "duration": 35158,
+  "duration": 33997,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_click_login()"
 });
 formatter.result({
-  "duration": 26376,
+  "duration": 27034,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_logout()"
 });
 formatter.result({
-  "duration": 15331,
+  "duration": 13251,
   "status": "passed"
 });
 formatter.scenario({
@@ -262,28 +262,28 @@ formatter.match({
   "location": "SmokeTestNew2.i_login_to_the_website()"
 });
 formatter.result({
-  "duration": 42013,
+  "duration": 58348,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_enter_username_and_password()"
 });
 formatter.result({
-  "duration": 24424,
+  "duration": 28134,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_click_login()"
 });
 formatter.result({
-  "duration": 23542,
+  "duration": 25937,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_logout()"
 });
 formatter.result({
-  "duration": 12713,
+  "duration": 18998,
   "status": "passed"
 });
 formatter.scenario({
@@ -318,28 +318,28 @@ formatter.match({
   "location": "SmokeTestNew2.i_login_to_the_website()"
 });
 formatter.result({
-  "duration": 36193,
+  "duration": 75570,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_enter_username_and_password()"
 });
 formatter.result({
-  "duration": 27345,
+  "duration": 38140,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_click_login()"
 });
 formatter.result({
-  "duration": 26082,
+  "duration": 47001,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTestNew2.i_logout()"
 });
 formatter.result({
-  "duration": 12048,
+  "duration": 19909,
   "status": "passed"
 });
 });

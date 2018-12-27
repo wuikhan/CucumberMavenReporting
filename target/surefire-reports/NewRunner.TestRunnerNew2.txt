@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: NewRunner.TestRunnerNew2
 -------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.839 sec - in NewRunner.TestRunnerNew2
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.698 sec - in NewRunner.TestRunnerNew2
