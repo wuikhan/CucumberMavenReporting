@@ -1,6 +1,8 @@
 package stepDefination;
 
 import org.junit.Assert;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
@@ -11,6 +13,9 @@ public class SmokeTestNew2 {
 	public void i_login_to_the_website() {
 		System.out.println("Hello");
 		System.out.println("Hello");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\waqas.khan\\Downloads\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("https://www.google.com");
 
 	}
 
