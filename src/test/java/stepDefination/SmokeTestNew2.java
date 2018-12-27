@@ -12,6 +12,9 @@ public class SmokeTestNew2 {
 		System.out.println("Hello");
 
 		
+		
+		
+		
 	}
 
 	@And("^I enter username and password$")
