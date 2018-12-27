@@ -30,7 +30,7 @@ public class SmokeTestNew2 {
 
 	@And("^I logout$")
 	public void i_logout() {
-		Assert.assertEquals(12, 12);
+		Assert.assertEquals(12, 14);
 	}
 
 }
