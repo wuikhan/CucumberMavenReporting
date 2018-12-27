@@ -10,8 +10,7 @@ public class SmokeTestNew2 {
 	@Given("^I login to the website$")
 	public void i_login_to_the_website() {
 		System.out.println("Hello");
-		System.out.println("Hello");
-		System.out.println("Hello");
+		
 	}
 
 	@And("^I enter username and password$")
