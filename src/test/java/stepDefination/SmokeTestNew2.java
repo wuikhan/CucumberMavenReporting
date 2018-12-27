@@ -19,6 +19,8 @@ public class SmokeTestNew2 {
 	@And("^I enter username and password$")
 	public void i_enter_username_and_password() {
 		System.out.println("Hello");
+		System.out.println("Hello");
+		System.out.println("Hello");
 	}
 
 	@And("^I click login$")
