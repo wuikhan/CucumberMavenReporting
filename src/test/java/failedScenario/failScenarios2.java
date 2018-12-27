@@ -12,6 +12,7 @@ import cucumber.api.junit.Cucumber;
 		dryRun = false,
 		plugin= {"json:target/cucumber.json","html:target/site/cucumber-pretty",
 				"rerun:target/rerun.txt"}
+
 )
 
 public class failScenarios2 {
